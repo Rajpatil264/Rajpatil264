@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajpatil264
-- 👀 I’m interested in Data Science, Machine Learning and Currently working on Linux Systems and as a intern in Data Analytics
-- 🌱 I’m currently learning B.Tech in Computer Science And Technology (TY Student) 
+- 👀 I’m interested in Data Science, Machine Learning and Currently working as Full Stack Developer.
+- 🌱 Completed B.Tech in Computer Science and Technology.
 - 💞️ I’m looking to collaborate on Some big Projects On Data Analyzing
 - 📫 How to reach me : E-mail-raj2003patil@gmail.com 
 
